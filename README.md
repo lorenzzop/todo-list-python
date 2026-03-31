@@ -12,10 +12,10 @@ O projeto começou como um exercício simples em terminal, com operações bási
 
 O sistema permite gerenciar tarefas de forma simples, com as seguintes funcionalidades principais:
 
-> Adicionar tarefas: o usuário pode inserir uma nova tarefa através do campo de texto. <br>
-> Listar tarefas: todas as tarefas são exibidas na interface, com indicação visual de status. <br>
-> Concluir tarefas: é possível marcar uma tarefa como concluída, alterando seu estado. <br>
-> Remover tarefas: tarefas podem ser excluídas da lista a qualquer momento. 
+- Adicionar tarefas: o usuário pode inserir uma nova tarefa através do campo de texto. <br>
+- Listar tarefas: todas as tarefas são exibidas na interface, com indicação visual de status. <br>
+- Concluir tarefas: é possível marcar uma tarefa como concluída, alterando seu estado. <br>
+- Remover tarefas: tarefas podem ser excluídas da lista a qualquer momento. 
 
 Cada tarefa é representada internamente como um dicionário, contendo:
 - o texto da tarefa
